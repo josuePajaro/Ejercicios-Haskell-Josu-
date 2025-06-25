@@ -1,0 +1,5 @@
+-- ['a','b','c'] :: [char]
+-- ('a','b','c') :: (char,char,char)
+-- [(False,'0'),(True,'1')] :: [(Bool,char)]
+-- ([False,True],['0','1']) :: ([Bool],[Char])
+-- [tail,init,reverse] :: [[a]->[a]]
