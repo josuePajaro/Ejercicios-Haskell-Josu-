@@ -1,0 +1,6 @@
+--Escriba definiciones que tengan los siguientes tipos, no importa lo que hagan realmente las definiciones, siempre que sean de tipo correcto
+-- 1) bools :: [Bool]. respuesta: bools = [True, False]
+-- 2) nums :: [[int]]. respuesta: nums = [[1],[2]]
+-- 3) add :: Int -> Int -> Int -> Int. respuesta: add a b c = a+b+c
+-- 4) copy :: a -> (a,a). Respuesta: copy x = (x,x)
+-- 5) apply :: (a -> b) -> a -> b. Respuesta: apply fx = fx 
